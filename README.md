@@ -9,10 +9,13 @@ I'm Wakim Saba.
 
 <br/>
 
- In order to find a project easily, you can click on Star and find it by category:
+ To find a project easily, you can click Star and find it by category:
  
- ![image](https://user-images.githubusercontent.com/54562008/229360740-017885c6-0e0a-4de5-8586-eb1e4f653a39.png)
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/54562008/229360740-017885c6-0e0a-4de5-8586-eb1e4f653a39.png">
+</p>
 
+ 
 
 
 
