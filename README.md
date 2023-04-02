@@ -11,7 +11,7 @@ I'm Wakim Saba.
 
  In order to find a project easily, you can click on Star and find it by category:
  
- ![image](https://user-images.githubusercontent.com/54562008/229360639-88e17c9d-c0b6-47c9-a47a-4ec8a2f02817.png)
+ ![image](https://user-images.githubusercontent.com/54562008/229360740-017885c6-0e0a-4de5-8586-eb1e4f653a39.png)
 
 
 
