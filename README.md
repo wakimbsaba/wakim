@@ -13,7 +13,7 @@ I'm Wakim Saba.
  
  <img src="image destination">
  <p align="center">
-  <a href="https://github.com/wakimbsaba?tab=stars"><img src="https://user-images.githubusercontent.com/54562008/229360740-017885c6-0e0a-4de5-8586-eb1e4f653a39.png"></a>
+  <a href="https://github.com/wakimbsaba?tab=stars"><img src="https://user-images.githubusercontent.com/54562008/229360740-017885c6-0e0a-4de5-8586-eb1e4f653a39.png"  width="50%" height="50%"></a>
 </p>
 
  
