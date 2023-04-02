@@ -9,9 +9,8 @@ I'm Wakim Saba.
 
 <br/>
 
- To find a project easily, you can click Star and find it by category:
+ To find a project easily, you can <a href="https://github.com/wakimbsaba?tab=stars">click Star</a> and find it by category:
  
- <img src="image destination">
  <p align="center">
   <a href="https://github.com/wakimbsaba?tab=stars"><img src="https://user-images.githubusercontent.com/54562008/229360740-017885c6-0e0a-4de5-8586-eb1e4f653a39.png"  width="50%" height="50%"></a>
 </p>
